@@ -19,3 +19,13 @@ body {
     background-repeat: no-repeat;
     background-size: contain;
 }
+
+/* Botão */
+.container__botao {
+    background-color: var(--bota-azul);
+    border-radius: 5px;
+    padding: 1em; 
+    color: var(--branco-principal);
+
+    display: flex;
+}
