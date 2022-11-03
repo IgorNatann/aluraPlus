@@ -124,3 +124,28 @@ body {
   font-size: 32px;
   color: var(--branco-principal);
 }
+
+/* Footer */
+
+.rodape {
+    text-align: center;
+}
+
+.rodape__logo {
+    margin-bottom: 2em;
+}
+
+.rodape__lista {
+    display: flex;
+    justify-content: center;
+
+    list-style-type: none;
+
+    padding: 0 1em;
+    margin-bottom: 2em;
+
+}
+
+.rodape__texto {
+    
+}
